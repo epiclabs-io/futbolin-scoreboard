@@ -1,1 +1,2 @@
 # futbolin-scoreboard
+Arduino project
